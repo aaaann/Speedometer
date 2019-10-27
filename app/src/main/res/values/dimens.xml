@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="body_circle_stroke_width">18dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="scale_arc_stroke_width">22dp</dimen>
+</resources>
